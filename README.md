@@ -1,2 +1,2 @@
 # AI
-projects of artificial intelligence
+통계학 전공 수업(인공지능 통계분석)에서 수행한 'COVID-19 폐 이미지를 이용한 분류 모델링' 구현 프로젝트
